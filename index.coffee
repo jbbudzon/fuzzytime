@@ -14,14 +14,14 @@ style =
   # Define the position, where to display the time.
   # Set properties you don't need to "auto"
   position:
-    top:    "1%"
+    top:    "90%"
     bottom: "auto"
-    left:   "1%"
+    left:   "5%"
     right:  "auto"
 
   # Font properties
-  font:            "'Helvetica Neue', sans-serif"
-  font_color:      "#F5F5F5"
+  font:            "'Hack Nerd Font', sans-serif"
+  font_color:      "#ebdbb2cc"
   font_size:       "50px"
   font_weight:     "100"
   letter_spacing:  "0.025em"
